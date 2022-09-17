@@ -1,2 +1,2 @@
 # animated-world
-Simple Aminated Web Page
+Simple Aminated Web Page Using HTML,CSS and Js
